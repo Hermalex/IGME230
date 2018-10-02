@@ -29,6 +29,17 @@ Aesthetics
 The style of Slider will be very abstract (and only partially because I lack any artistic skill). The character 
 and obstacles will consist of simply colored uniform shapes and the walls of the level will be very plain as well.
 
+### Visuals
+
+* Simple Geometric shapes
+* Bright colors
+
+### Sound
+
+* 8-bit music
+* Looping music
+* Simple sound effects for dying
+
 Gameplay
 ---
 
